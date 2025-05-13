@@ -8,10 +8,10 @@ public class SelfIntro{
 		// TODO Auto-generated method stub
 //System.out.println("hello");
 		String name="manasvini";
-		int age= 22;
+		int age= 345;
 		String edu="b.tech";
-		float gpa=6.8f;
-		char gender='F';
+		float gpa=97.4f;
+		char gender='A';
 		boolean isfresher=true;
 		System.out.println("BELOW IS THE DEMO ON HOW YOUR INPUT WILL BE DISPLAYED");
 		System.out.println("My name is "+name);

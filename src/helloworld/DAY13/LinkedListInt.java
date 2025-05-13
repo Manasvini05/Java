@@ -9,11 +9,12 @@ public class LinkedListInt {
 		LinkedList<Integer> num=new LinkedList<>();
 		
 		num.add(45);
-		num.addLast(5);
+		
 		num.add(450);
 		num.add(459);
 		num.addFirst(973);
 		num.add(745);
+		num.addLast(5);
 //		num.add(45);
 		
 		System.out.print("List of numbers are : { ");
